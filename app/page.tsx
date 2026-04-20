@@ -2,6 +2,8 @@ import Image from "next/image";
 import HeroSection from "@/components/HeroSection";
 import NoticeBar from "@/components/NoticeBar";
 import ServicesSection from "@/components/ServicesSection";
+import SpecialCategories from "@/components/SpecialCategories";
+import FeaturedProducts from "@/components/FeaturedProducts";
 
 export default function Home() {
   return (
@@ -9,6 +11,8 @@ export default function Home() {
       <HeroSection />
       <NoticeBar />
       <ServicesSection />
+      <SpecialCategories />
+      <FeaturedProducts />
     </main>
   );
 }

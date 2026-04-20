@@ -23,7 +23,7 @@ const services = [
 
 export default function ServicesSection() {
   return (
-    <section className="w-full py-5">
+    <section className="w-full py-8">
       <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
         {services.map((item, index) => (
           <div
