@@ -8,7 +8,7 @@ import Image from "next/image";
 
 export default function HeroSection() {
   return (
-    <div className="grid grid-cols-12 gap-4 px-6 py-4">
+    <div className="grid grid-cols-12 gap-4  py-4">
       {/* LEFT: Slider */}
       <div className="col-span-9">
         <Swiper
@@ -24,7 +24,7 @@ export default function HeroSection() {
               alt="banner"
               width={1200}
               height={400}
-              className="w-full h-[400px] object-cover"
+              className="w-full h-[540px] max-h-[550px] object-cover"
             />
           </SwiperSlide>
 
@@ -34,7 +34,7 @@ export default function HeroSection() {
               alt="banner"
               width={1200}
               height={400}
-              className="w-full h-[400px] object-cover"
+              className="w-full h-[540px] max-h-[550px] object-cover"
             />
           </SwiperSlide>
 
@@ -44,7 +44,7 @@ export default function HeroSection() {
               alt="banner"
               width={1200}
               height={400}
-              className="w-full h-[400px] object-cover"
+              className="w-full h-[540px] max-h-[550px] object-cover"
             />
           </SwiperSlide>
         </Swiper>
@@ -58,7 +58,7 @@ export default function HeroSection() {
             alt="promo"
             width={400}
             height={190}
-            className="w-full h-[190px] object-cover"
+            className="w-full h-[260px] max-h[260px] object-cover"
           />
         </div>
 
@@ -68,7 +68,7 @@ export default function HeroSection() {
             alt="promo"
             width={400}
             height={190}
-            className="w-full h-[190px] object-cover"
+            className="w-full h-[260px] max-h[260px] object-cover"
           />
         </div>
       </div>
