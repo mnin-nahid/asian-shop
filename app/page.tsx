@@ -4,6 +4,7 @@ import NoticeBar from "@/components/NoticeBar";
 import ServicesSection from "@/components/ServicesSection";
 import SpecialCategories from "@/components/SpecialCategories";
 import FeaturedProducts from "@/components/FeaturedProducts";
+import StoreBanner from "@/components/StoreBanner";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <NoticeBar />
       <ServicesSection />
       <SpecialCategories />
+      <StoreBanner />
       <FeaturedProducts />
     </main>
   );
