@@ -27,27 +27,29 @@ export default function Navbar() {
       </div>
 
       {/* RIGHT: Menu */}
-      <div className="flex items-center gap-6 text-sm">
+      <div className=" flex items-center gap-6 text-sm">
         <Link href="/offers">
-          <div className="flex items-center gap-2 cursor-pointer">
-            <Gift size={18} />
+          <div className="text-amber-400 flex items-center gap-2 cursor-pointer">
+            <Gift size={24} />
             <div>
               <p className="font-semibold">Offers</p>
-              <p className="text-xs text-gray-300">Latest Offers</p>
+              <p className="text-xs">Latest Offers</p>
             </div>
           </div>
         </Link>
 
+        <Link href="/hotOffer">
         <div className="flex items-center gap-2 cursor-pointer">
-          <Zap size={18} />
+          <Zap size={24} className="text-amber-400 animate-pulse" />
           <div>
             <p className="font-semibold">Happy Hour</p>
             <p className="text-xs text-gray-300">Special Deals</p>
           </div>
         </div>
+        </Link>
 
         <div className="flex items-center gap-2 cursor-pointer">
-          <User size={18} />
+          <User size={24} className="text-amber-400"/>
           <div>
             <p className="font-semibold">Account</p>
             <p className="text-xs text-gray-300">Register or Login</p>
