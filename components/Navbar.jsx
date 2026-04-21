@@ -1,15 +1,15 @@
 "use client";
 
 import { Search, Gift, Zap, User } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 
 export default function Navbar() {
   return (
     <nav className="bg-[#0b1c2c] text-white px-6 py-3 flex items-center justify-between">
       {/* LEFT: Logo */}
-      <div className="flex items-center gap-2">
-        <span className="text-orange-500 font-bold text-xl">Asian</span>
-        <span className="text-blue-400 font-semibold">Shop</span>
+      <div className="flex items-center">
+        <Image src="/asian-shop.png" alt="Asian Shop" width={100} height={30} />
       </div>
 
       {/* CENTER: Search Bar */}
@@ -28,13 +28,15 @@ export default function Navbar() {
 
       {/* RIGHT: Menu */}
       <div className="flex items-center gap-6 text-sm">
-        <div className="flex items-center gap-2 cursor-pointer">
-          <Gift size={18} />
-          <div>
-            <p className="font-semibold">Offers</p>
-            <p className="text-xs text-gray-300">Latest Offers</p>
+        <Link href="/offers">
+          <div className="flex items-center gap-2 cursor-pointer">
+            <Gift size={18} />
+            <div>
+              <p className="font-semibold">Offers</p>
+              <p className="text-xs text-gray-300">Latest Offers</p>
+            </div>
           </div>
-        </div>
+        </Link>
 
         <div className="flex items-center gap-2 cursor-pointer">
           <Zap size={18} />

@@ -5,6 +5,7 @@ import ServicesSection from "@/components/ServicesSection";
 import SpecialCategories from "@/components/SpecialCategories";
 import FeaturedProducts from "@/components/FeaturedProducts";
 import StoreBanner from "@/components/StoreBanner";
+import OfferSection from "@/components/OfferSection";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <SpecialCategories />
       <StoreBanner />
       <FeaturedProducts />
+      <OfferSection />
     </main>
   );
 }
