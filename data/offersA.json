@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "title": "19th Anniversary Fest",
+    "description": "Enjoy Exciting Discounts & Gifts!",
+    "image": "/offer/19th-anniversary-fest-001-400x400.webp",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 2,
+    "title": "Cudy Router Offer",
+    "description": "Buy the Cudy WR1500 Router and Get Free Coffee Mug!",
+    "image": "/offer/cudy-router-offer-400x400.webp",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 3,
+    "title": "MSI Gaming Boishakhi Offer",
+    "description": "Buy MSI Laptop and Get Exciting Gifts!",
+    "image": "/offer/msi-gaming-boihsakhi-offer-400x400.webp",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 4,
+    "title": "Dahua Boishakhi Jhoro Offer",
+    "description": "Buy Dahua Monitors and Get Exciting gifts!",
+    "image": "/offer/dahua-monitor-boishakhi-jhoro-offer-400x400.webp",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 5,
+    "title": "Ruijie Router Offer",
+    "description": "Buy your favorite Ruijie Router & Get Exciting Discount!",
+    "image": "/offer/ruijie-wifi-router-offer-400x400.webp",
+    "buttonText": "View Details"
+  },{
+    "id": 6,
+    "title": "19th Anniversary Fest",
+    "description": "Enjoy Exciting Discounts & Gifts!",
+    "image": "/offer/19th-anniversary-fest-001-400x400.webp",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 7,
+    "title": "Cudy Router Offer",
+    "description": "Buy the Cudy WR1500 Router and Get Free Coffee Mug!",
+    "image": "/offer/cudy-router-offer-400x400.webp",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 8,
+    "title": "MSI Gaming Boishakhi Offer",
+    "description": "Buy MSI Laptop and Get Exciting Gifts!",
+    "image": "/offer/msi-gaming-boihsakhi-offer-400x400.webp",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 9,
+    "title": "Dahua Boishakhi Jhoro Offer",
+    "description": "Buy Dahua Monitors and Get Exciting gifts!",
+    "image": "/offer/dahua-monitor-boishakhi-jhoro-offer-400x400.webp",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 10,
+    "title": "Ruijie Router Offer",
+    "description": "Buy your favorite Ruijie Router & Get Exciting Discount!",
+    "image": "/offer/ruijie-wifi-router-offer-400x400.webp",
+    "buttonText": "View Details"
+  }
+]

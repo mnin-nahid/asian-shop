@@ -1,65 +1,77 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "title": "19th Anniversary Fest",
-    "description": "Enjoy Exciting Discounts & Gifts!",
-    "image": "/offer/19th-anniversary-fest-001-400x400.webp",
-    "buttonText": "View Details"
+    "image": "/offers/19th-anniversary-fest-001-400x400.webp",
+    "startDate": "2026-04-13T00:00:00",
+    "endDate": "2026-04-30T23:59:59",
+    "shortDescription": "Enjoy Exciting Discounts & Gifts!",
+    "description": "স্টার টেক ১৯তম বর্ষপূর্তি উপলক্ষে আকর্ষণীয় ডিসকাউন্ট ও উপহার উপভোগ করুন।\n\nঅনলাইন অথবা যেকোনো আউটলেট থেকে কেনাকাটায় থাকছে বিশেষ অফার ও উপহার।",
+    "conditions": [
+      "Offer valid till stock lasts",
+      "Applicable on selected products only",
+      "Authority reserves the right to change terms"
+    ],
+    "links": [{ "label": "View Offers", "url": "/offers/1" }]
   },
   {
-    "id": 2,
+    "id": "2",
     "title": "Cudy Router Offer",
-    "description": "Buy the Cudy WR1500 Router and Get Free Coffee Mug!",
-    "image": "/offer/cudy-router-offer-400x400.webp",
-    "buttonText": "View Details"
+    "image": "/offers/cudy-router-offer-400x400.webp",
+    "startDate": "2026-04-13T00:00:00",
+    "endDate": "2026-04-30T23:59:59",
+    "shortDescription": "Buy router & get free coffee mug!",
+    "description": "Cudy WR1500 রাউটার কিনলেই পাচ্ছেন একটি ফ্রি কফি মগ।\n\nদ্রুতগতির ইন্টারনেটের সাথে পাচ্ছেন আকর্ষণীয় উপহার।",
+    "conditions": [
+      "Offer valid till stock lasts",
+      "Only applicable on Cudy WR1500 router",
+      "Gift cannot be exchanged"
+    ],
+    "links": [{ "label": "Buy Now", "url": "/offers/2" }]
   },
   {
-    "id": 3,
+    "id": "3",
     "title": "MSI Gaming Boishakhi Offer",
-    "description": "Buy MSI Laptop and Get Exciting Gifts!",
-    "image": "/offer/msi-gaming-boihsakhi-offer-400x400.webp",
-    "buttonText": "View Details"
+    "image": "/offers/msi-gaming-boihsakhi-offer-400x400.webp",
+    "startDate": "2026-04-13T00:00:00",
+    "endDate": "2026-04-30T23:59:59",
+    "shortDescription": "Buy MSI laptop & get exciting gifts!",
+    "description": "Boishakhi উপলক্ষে MSI ল্যাপটপ কিনলেই পাচ্ছেন আকর্ষণীয় গিফট।\n\nপারফরম্যান্সের সাথে থাকছে বাড়তি চমক।",
+    "conditions": [
+      "Offer valid till stock lasts",
+      "Applicable only for MSI laptops",
+      "Offers may vary by model"
+    ],
+    "links": [{ "label": "Explore MSI", "url": "/offers/3" }]
   },
   {
-    "id": 4,
-    "title": "19th Anniversary Fest",
-    "description": "Enjoy Exciting Discounts & Gifts!",
-    "image": "/offer/19th-anniversary-fest-001-400x400.webp",
-    "buttonText": "View Details"
+    "id": "4",
+    "title": "Dahua Boishakhi Jhoro Offer",
+    "image": "/offers/dahua-monitor-boishakhi-jhoro-offer-400x400.webp",
+    "startDate": "2026-04-13T00:00:00",
+    "endDate": "2026-04-30T23:59:59",
+    "shortDescription": "Buy Dahua monitor & get gifts!",
+    "description": "Dahua মনিটর কিনলেই Boishakhi Jhoro অফারে পাচ্ছেন আকর্ষণীয় উপহার।\n\nসেরা ডিসপ্লে কোয়ালিটির সাথে বাড়তি সুবিধা।",
+    "conditions": [
+      "Offer valid till stock lasts",
+      "Only applicable for Dahua monitors",
+      "Gifts subject to availability"
+    ],
+    "links": [{ "label": "View Products", "url": "/offers/4" }]
   },
   {
-    "id": 5,
-    "title": "Cudy Router Offer",
-    "description": "Buy the Cudy WR1500 Router and Get Free Coffee Mug!",
-    "image": "/offer/cudy-router-offer-400x400.webp",
-    "buttonText": "View Details"
-  },
-  {
-    "id": 6,
-    "title": "MSI Gaming Boishakhi Offer",
-    "description": "Buy MSI Laptop and Get Exciting Gifts!",
-    "image": "/offer/msi-gaming-boihsakhi-offer-400x400.webp",
-    "buttonText": "View Details"
-  },
-  {
-    "id": 7,
-    "title": "19th Anniversary Fest",
-    "description": "Enjoy Exciting Discounts & Gifts!",
-    "image": "/offer/19th-anniversary-fest-001-400x400.webp",
-    "buttonText": "View Details"
-  },
-  {
-    "id": 8,
-    "title": "Cudy Router Offer",
-    "description": "Buy the Cudy WR1500 Router and Get Free Coffee Mug!",
-    "image": "/offer/cudy-router-offer-400x400.webp",
-    "buttonText": "View Details"
-  },
-  {
-    "id": 9,
-    "title": "MSI Gaming Boishakhi Offer",
-    "description": "Buy MSI Laptop and Get Exciting Gifts!",
-    "image": "/offer/msi-gaming-boihsakhi-offer-400x400.webp",
-    "buttonText": "View Details"
+    "id": "5",
+    "title": "Ruijie Router Offer",
+    "image": "/offers/ruijie-wifi-router-offer-400x400.webp",
+    "startDate": "2026-04-13T00:00:00",
+    "endDate": "2026-04-30T23:59:59",
+    "shortDescription": "Get exciting discount on routers!",
+    "description": "Ruijie রাউটার কিনে পাচ্ছেন আকর্ষণীয় ডিসকাউন্ট।\n\nনির্ভরযোগ্য নেটওয়ার্কিং এখন আরও সাশ্রয়ী।",
+    "conditions": [
+      "Offer valid till stock lasts",
+      "Applicable on selected Ruijie routers",
+      "Discount may vary"
+    ],
+    "links": [{ "label": "Shop Routers", "url": "/offers/5" }]
   }
 ]
